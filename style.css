@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    background-color: #e9c562;
+}
+
+.card-1 {
+    background: linear-gradient(to left top, #d9e852, #ff0000);
+    border: 1px solid none;
+    border-radius: 20px;
+    width: 340px;
+    height: 420px;
+    display: inline-block;
+    padding-top: 30px;
+    margin-left: 800px;
+    margin-top: 100px;
+}
+
+.card-1__img {
+    width: 200px;
+}
+
+.card-1__name {
+    font-size: 30px;
+    margin: 30px 0;
+    font-family:'Dancing Script', cursive;
+    font-weight: 400;
+}
+
+.card-1__music {}
+
+.card-2 {
+    background: linear-gradient(#199dac, #d42de3);
+    border: 1px solid none;
+    border-radius: 20px;
+    width: 340px;
+    height: 420px;
+    display: inline-block;
+    padding-top: 30px;
+    margin-left: 50px;
+}
+
+.card-2__img {
+    width: 200px;
+}
+
+.card-2__name {
+    font-size: 30px;
+    margin: 13px 0;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 400;
+}
+
+.card-2__music {}
+
