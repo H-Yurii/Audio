@@ -176,5 +176,4 @@ body {
 .video__button:hover {
     background-color: orange;
     padding: 15px 40px;
-    letter-spacing: -1px;
 }
